@@ -9,3 +9,7 @@ I took two online classes at BSU over the summer (Web Programming and Android de
 ## Andrew Thomas
 
 I took two online classes as well and worked full time as a solutions architect at Solutions4ebiz. I wrote shell scripts to migrate sites to newer server. I refactored a 20-year old e-commerce site to run on the latest software, and integrated a new payment processor to maintain PCI compliance. I built a few custom sites using Laravel. One was a custom survey site for a church to see their members gifts, and another managed invoices for a major VoIP company. I automated the throttling of internet speeds based on payment statuses and dynamically adjusted customer's tv access based on the plan they payed for. I did various other tasks as needed.
+
+## Chunxiang Yu
+
+This summer, I stayed in Muncie and took an online course at Ball State University. I took a total of 4 courses in the summer. They are CS 110, CS 419, CS 445 and HIST 150. CS 419 and CS 445 have helped me the most. On CS 419, I mainly learn to use the lunix system and try to program in the command line. In addition, I also learned basic knowledge about threads, processes, and operating systems. This helps me a lot in understanding the operation of the computer system. On CS 445, I mainly studied the design of the user interface and the connection between the database and the front end. I used C#, CSS, and JavaScript to create a pizza restaurant ordering webpage. This webpage can realize the user registration, login, select pizza size, fill in the delivery address and other functions.
